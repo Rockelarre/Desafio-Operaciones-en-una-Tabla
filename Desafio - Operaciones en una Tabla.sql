@@ -1,5 +1,5 @@
 -- 1. Crear una base de datos con nombre “Posts”.
--- En la consola de PostgreSQL ejecutar comnado:
+-- En la consola de PostgreSQL ejecutar comando:
 -- CREATE DATABASE "Posts";
 
 
